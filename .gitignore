@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.jdk/
+android/.gradle/
+android/.kotlin/
+android/app/build/
+android/build/
+android/local.properties
+android/app/src/main/assets/public
+android/capacitor-cordova-android-plugins
+*.apk
+*.aab
+.screenshots/
+.trae-html-share-packages/
